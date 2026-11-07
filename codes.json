@@ -1,0 +1,1 @@
+{"note":"Block Party codes. h = sha256(\"bpcr:\" + CODE). Managed by Claude for Bright Spark Games.","codes":[{"label":"Launch week","h":"f17c712c8eab6311b504c9b737bd9afb3a2ec0bfd02fd8be0065523f6e165723","until":"2026-12-31","msg":"Welcome to the block!","r":{"bucks":2000,"boosts":{"blimp":2,"storm":1}}}]}
